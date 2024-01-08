@@ -1,2 +1,2 @@
-# Something from XJTU
+# XJTU
 none
