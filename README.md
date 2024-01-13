@@ -13,5 +13,6 @@ In this project, we develop a **theoretical model** to examine how different adv
 ![image](https://github.com/stellaaaaa123/Bilibili/blob/ae14fee1d3885fafe06aa115ca90b6dd53048fd6/4.png)
 ![image](https://github.com/stellaaaaa123/Bilibili/blob/ae14fee1d3885fafe06aa115ca90b6dd53048fd6/5.png)
 
-**Hey, this research is not very mature yet🙇‍♀️, so I won't show the rest of the content. (pouting with hands on hips🤣), but I will continue to study related content to improve it.**
+**Hey, this project is not very mature yet🙇‍♀️, 
+so I haven't revealed the entire content yet (pouting with hands on hips🤣), but I will continue to study related material to enhance it💪.**
 
